@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662485084074",
+    "firebase_url": "https://tpdmu3practica1-a625a.firebaseio.com",
+    "project_id": "tpdmu3practica1-a625a",
+    "storage_bucket": "tpdmu3practica1-a625a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662485084074:android:69ad0285c52e20ddaf6dd3",
+        "android_client_info": {
+          "package_name": "com.example.tpdm_u3_practica1_sanchezelizondo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662485084074-ullqa2med8b9rik5a45n2kosbifmrd92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQtoUM4Lx90MyerEzEcIiREoP6X5xkjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662485084074-ullqa2med8b9rik5a45n2kosbifmrd92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
